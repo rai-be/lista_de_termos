@@ -9,4 +9,5 @@ Termos
 |Repositorio| Local que armazena codigos e arquivos|
 |Untracked|Um arquivo que foi criado mais ainda nao esta versionado|
 |Staged| Arquivos editado que ainda nao foi salvo|
-|Unstaged| Arquivo adicionado mais nao foi 'comitado' ainda|  
+|Unstaged| Arquivo adicionado mais nao foi 'comitado' ainda|
+|Modified| Arquivo modificado|  
